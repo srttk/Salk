@@ -1,0 +1,1 @@
+If you want to make windows executable binary use py2exe library.
