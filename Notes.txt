@@ -1,1 +1,4 @@
 If you want to make windows executable binary use py2exe library.
+
+Usage:python salk.py <filename>
+	Eg: :python salk.py mylog.txt
