@@ -1,0 +1,11 @@
+Date:12:39 PM 11/25/2012
+Author:Sarath TK
+Project Name:salk(Sarath KeyLogger)\
+Parent Project:DeNiro
+This project is derived from deniro core project(deniro Version:     0.0.2);
+
+Purpose:A coomand line argument passing for  log file name instead defult log file l0g.ocx
+
+usage:salk <logfilename>
+
+
